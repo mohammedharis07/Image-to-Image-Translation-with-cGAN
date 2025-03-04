@@ -19,9 +19,7 @@ Modify the root path in the code to match your dataset location.
 
 🛠 Installation
 Clone the repository:
-bash
-Copy
-Edit
+
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 Install dependencies:
@@ -69,9 +67,6 @@ Modify num_epochs in the script if you want longer training.
 📜 License
 This project is open-source. Feel free to modify and use it for your applications.
 
-
-
-2/2
 
 
 
